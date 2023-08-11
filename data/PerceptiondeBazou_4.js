@@ -1,0 +1,1 @@
+var json_PerceptiondeBazou_4 = {"type":"FeatureCollection","name":"PerceptiondeBazou_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"NOM":"Perception de Bazou"},"geometry":{"type":"Point","coordinates":[10.469914901286552,5.056334515454759]}}]}

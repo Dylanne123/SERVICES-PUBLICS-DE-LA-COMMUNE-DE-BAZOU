@@ -1,0 +1,1 @@
+var json_PrisonsecondairedeBazou_3 = {"type":"FeatureCollection","name":"PrisonsecondairedeBazou_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"NOM":"Prison secondaire de Bazou"},"geometry":{"type":"Point","coordinates":[10.465455185087837,5.06841840376402]}}]}
